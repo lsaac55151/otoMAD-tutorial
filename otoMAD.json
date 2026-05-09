@@ -1,5 +1,18 @@
 [
   {
+    "type": "blog",
+    "thumbnail": "http://otomad.jp/wp-content/uploads/sh-reverb.png",
+    "title": "음매드 만드는 방법 - VST 도입",
+    "description": "",
+    "url": "https://otomad.jp/archives/152",
+    "author": "ubu_chinchilla",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
     "type": "youtube",
     "thumbnail": "https://img.youtube.com/vi/cQ07lwetSQA/hqdefault.jpg",
     "title": "【基礎簡易版】音MADの作り方　※一時停止推奨",
