@@ -1,55 +1,27 @@
 [
   {
     "type": "youtube",
-    "title": "초보자를 위한 음매드 입문 A to Z",
-    "description": "음매드 제작의 전체적인 흐름과 필요한 프로그램 설치부터 첫 작품 완성까지의 과정을 다룹니다.",
-    "url": "#",
-    "author": "음매드 연구소",
-    "date": "2026.04.15",
-    "duration": "15:20",
-    "tags": [
-      "입문",
-      "Reaper"
-    ]
-  },
-  {
-    "type": "blog",
-    "title": "음정 잡기의 달인: 보컬시프터 심화 활용법",
-    "description": "단순한 음정 맞추기를 넘어 포먼트와 비브라토를 조절하여 더욱 자연스러운 목소리를 만드는 심화 기술을 소개합니다.",
-    "url": "#",
-    "author": "합성장인",
-    "date": "2026.03.22",
+    "title": "음원 합성 하는 법 : REAPER ｜音MAD 강좌",
+    "description": "",
+    "url": "https://youtu.be/2qfQYmkkCDk?list=PLWEI0XRzIavqFSNmj-pHEP-5OayQ_46ge",
+    "author": "여유천천",
+    "date": "2026.05.09",
     "duration": null,
     "tags": [
-      "심화",
-      "VocalShifter"
+      "REAPER"
     ]
   },
   {
     "type": "youtube",
-    "title": "Reaper를 이용한 리듬 및 음정 조절법",
-    "description": "DAW인 리퍼를 활용하여 깔끔하게 소리를 배치하고 피치를 조절하는 핵심 노하우를 공개합니다.",
-    "url": "#",
-    "author": "OtoMaker Pro",
-    "date": "2026.02.10",
-    "duration": "22:45",
-    "tags": [
-      "중급",
-      "리듬"
-    ]
-  },
-  {
-    "type": "blog",
-    "title": "베가스에서 프리미어로? 이펙트 워크플로우",
-    "description": "다양한 영상 편집 툴을 활용하여 음매드 특유의 시각 효과를 효율적으로 구현하는 방법을 비교 분석합니다.",
-    "url": "#",
-    "author": "편집 마스터",
-    "date": "2026.01.05",
+    "title": "음정보정 대사 음조절 용 무료 프로그램 Vocalshfter ｜音MAD 강좌",
+    "description": "",
+    "url": "https://youtu.be/osGIrioH8dE?list=PLWEI0XRzIavqFSNmj-pHEP-5OayQ_46ge",
+    "author": "여유천천",
+    "date": "2026.05.09",
     "duration": null,
     "tags": [
-      "영상",
-      "Vegas",
-      "Premiere"
+      "VocalShifter",
+      "REAPER"
     ]
   }
 ]
