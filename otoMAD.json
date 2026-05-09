@@ -1,6 +1,35 @@
 [
   {
     "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/nK9wlfZdaKY/hqdefault.jpg",
+    "title": "表情をつけられた歌声.mp4 [Korean Translated]",
+    "description": "",
+    "url": "https://youtu.be/nK9wlfZdaKY?list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj",
+    "author": "Guest",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "조교",
+      "VocalShifter"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/JM_qJ3ZaOfc/hqdefault.jpg",
+    "title": "【音MAD教程】我的野路子人力教程",
+    "description": "",
+    "url": "https://youtu.be/JM_qJ3ZaOfc",
+    "author": "ARounder",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "조교",
+      "REAPER",
+      "VocalShifter"
+    ]
+  },
+  {
+    "type": "youtube",
     "thumbnail": "https://img.youtube.com/vi/m8gQd_5nK4E/hqdefault.jpg",
     "title": "【音MADメイキング】夜に駆けルドの音声解説【Reaper,UTAU】",
     "description": "",
