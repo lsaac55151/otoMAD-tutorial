@@ -1,8 +1,151 @@
 [
   {
     "type": "blog",
+    "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/EastMt72/20190205/20190205121903.png",
+    "title": "モモモモ望月杏奈 - 編集後記 #sm34574028",
+    "description": "",
+    "url": "https://eastmt72.hatenablog.com/entry/2019/02/05/131438",
+    "author": "EastMt",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER",
+      "AviUtl"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/EastMt72/20200328/20200328160831.png",
+    "title": "メルトの編集後記(人力編) #sm36529391",
+    "description": "",
+    "url": "https://eastmt72.hatenablog.com/entry/2020/03/28/190017",
+    "author": "EastMt",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/EastMt72/20220202/20220202165715.png",
+    "title": "AviUtl에서 이건 주의할 것",
+    "description": "",
+    "url": "https://eastmt72.hatenablog.com/entry/2022/02/02/233136",
+    "author": "EastMt",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "AviUtl"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/EastMt72/20210610/20210610142918.png",
+    "title": "【AviUtl】なんかいい感じのディフュージョンをつける方法",
+    "description": "",
+    "url": "https://eastmt72.hatenablog.com/entry/2021/06/10/145249",
+    "author": "EastMt72",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "AviUtl"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://cdn.image.st-hatena.com/image/scale/1d3b77ade211eb2eed73bbe6b2a3fa8a57daefcf/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FE%2FE-tum%2F20240506%2F20240506184819.png",
+    "title": "アニメキャラの動画切り抜き作業を楽にしたい - E-tum’s B-log",
+    "description": "",
+    "url": "https://e-tum.hatenablog.com/entry/2024/05/06/185020",
+    "author": "E-tum",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": []
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/m9sr7xGH9Dk/hqdefault.jpg",
+    "title": "[2026 파머씨 커리큘럼] 용가리 - 멜로다인 (1강)",
+    "description": "",
+    "url": "https://youtu.be/m9sr7xGH9Dk?list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj",
+    "author": "FarmerC-파머씨",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "Melodyne"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://ytpmv.info/wp-content/uploads/2019/09/116.png",
+    "title": "音MADの作り方。④　REAPER講座　セリフ合わせ編その1",
+    "description": "",
+    "url": "https://ytpmv.info/How-to-Make-Otomad-in-REAPER-4/",
+    "author": "maiami",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://ytpmv.info/wp-content/uploads/2019/09/12-1.png",
+    "title": "【音MADの教科書】音MADの作り方。REAPER講座　③",
+    "description": "",
+    "url": "https://ytpmv.info/How-to-Make-Otomad-in-REAPER-3/",
+    "author": "maimai",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://ytpmv.info/wp-content/uploads/2019/09/8-1.png",
+    "title": "【音MADの教科書】初心者音MAD作者のためのREAPER講座 ② - YTPMV.info",
+    "description": "",
+    "url": "https://ytpmv.info/How-to-Make-Otomad-in-REAPER-2/",
+    "author": "maimai",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/Z4ZCOAVmhuE/hqdefault.jpg",
+    "title": "발음 조교 강좌 한국어 번역",
+    "description": "",
+    "url": "https://youtu.be/Z4ZCOAVmhuE?list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj",
+    "author": "fall",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "VocalShifter",
+      "REAPER"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://ytpmv.info/wp-content/uploads/2019/09/2-1.png",
+    "title": "【音MADの教科書】音MAD作者のためのREAPER講座 ① - YTPMV.info",
+    "description": "",
+    "url": "https://ytpmv.info/How-to-Make-Otomad-in-REAPER-1/",
+    "author": "maimai",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "blog",
     "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mimaraka/20201117/20201117131352.png",
-    "title": "Big Brother(sm36571876)の編集後記・解説記事 - mimaraka’s blog",
+    "title": "Big Brother(sm36571876)의 편집후기・해설 기사 - mimaraka’s blog",
     "description": "",
     "url": "https://mimaraka.hateblo.jp/entry/Big_Brother",
     "author": "みまらか",
@@ -18,32 +161,35 @@
   {
     "type": "blog",
     "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/EastMt72/20201023/20201023001942.png",
-    "title": "メルトの編集後記(映像編) #sm36529391 - 雑記山",
+    "title": "멜트 편집 후기(영상편) #sm36529391 - 雑記山",
     "description": "",
     "url": "https://eastmt72.hatenablog.com/entry/2020/10/23/035902",
     "author": "EastMt72",
     "date": "2026.05.09",
     "duration": null,
     "tags": [
-      "REAPER",
       "AviUtl"
     ]
   },
   {
     "type": "blog",
     "thumbnail": "https://assets.st-note.com/production/uploads/images/90785964/rectangle_large_type_2_5f84bc394e0de1404f13ed8a89024646.png?fit=bounds&quality=85&width=1280",
-    "title": "切り貼り人力をしたい｜不可逆褐色",
+    "title": "인물 목소리로 조교를 해보고 싶다｜不可逆褐色",
     "description": "",
     "url": "https://note.com/eroerojpeg/n/nc0e8bcf0f4b9",
     "author": "不可逆褐色",
     "date": "2026.05.09",
     "duration": null,
-    "tags": []
+    "tags": [
+      "조교",
+      "VocalShifter",
+      "REAPER"
+    ]
   },
   {
     "type": "blog",
     "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mekapi/20230130/20230130223939.png",
-    "title": "人力VOCALOIDの作り方メモ（切り貼り人力ボカロ用）",
+    "title": "인력VOCALOIDの제작 방법 메모（切り貼り人力ボカロ用）",
     "description": "",
     "url": "https://mekapi.hatenablog.com/entry/ar1878988",
     "author": "メカP",
@@ -72,7 +218,7 @@
   {
     "type": "youtube",
     "thumbnail": "https://img.youtube.com/vi/JM_qJ3ZaOfc/hqdefault.jpg",
-    "title": "【音MAD教程】我的野路子人力教程",
+    "title": "【음MAD 강좌】개인적인 조교 방법 강좌",
     "description": "",
     "url": "https://youtu.be/JM_qJ3ZaOfc",
     "author": "ARounder",
@@ -87,7 +233,7 @@
   {
     "type": "youtube",
     "thumbnail": "https://img.youtube.com/vi/m8gQd_5nK4E/hqdefault.jpg",
-    "title": "【音MADメイキング】夜に駆けルドの音声解説【Reaper,UTAU】",
+    "title": "【음MAD 메이킹】밤을 도날리다의 음원 해설【Reaper,UTAU】",
     "description": "",
     "url": "https://youtu.be/m8gQd_5nK4E",
     "author": "aun6june",
