@@ -1,5 +1,159 @@
 [
   {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/cQ07lwetSQA/hqdefault.jpg",
+    "title": "【基礎簡易版】音MADの作り方　※一時停止推奨",
+    "description": "",
+    "url": "https://youtu.be/cQ07lwetSQA?list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj",
+    "author": "鳩ヶ谷",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/R8VYE4ubNXQ/hqdefault.jpg",
+    "title": "原曲を刻む [Korean Translation]",
+    "description": "",
+    "url": "https://youtu.be/R8VYE4ubNXQ?list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj",
+    "author": "EveningLunar 석월",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/ZiTRvAjL_VM/hqdefault.jpg",
+    "title": "[음원합성 강좌]4. 루프파일을 만들어 보자",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=ZiTRvAjL_VM&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=12&pp=iAQB",
+    "author": "켄짱",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/YPMTro9gMpg/hqdefault.jpg",
+    "title": "[음원합성 강좌]5. 소스에 비브라토/바이브레이션을 적용해보자",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=YPMTro9gMpg&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=11&pp=iAQB",
+    "author": "켄짱",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/8RVbkVjH66c/hqdefault.jpg",
+    "title": "[음원합성 강좌]7. 음의 높낮이 조절을 끊지 않고 점점 변하게 해보자",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=8RVbkVjH66c&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=10&pp=iAQB",
+    "author": "켄짱",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/DtwV_9QP8Gs/hqdefault.jpg",
+    "title": "[음원합성 강좌]8-1. 대사나열을 날로먹어보자",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=DtwV_9QP8Gs&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=9&pp=iAQB",
+    "author": "켄짱",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/b8yMosiQTNE/hqdefault.jpg",
+    "title": "[음원합성 강좌] 박자가 너무 빨라서 듣기 어려운 곡을 작업해보자.",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=b8yMosiQTNE&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=8&pp=iAQB",
+    "author": "켄짱",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/TSgEGbF66bA/hqdefault.jpg",
+    "title": "[FL Studio 강좌] 찰진 대사나열을 해보자!",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=TSgEGbF66bA&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=7&pp=iAQB",
+    "author": "켄짱",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/OxjxFJANltk/hqdefault.jpg",
+    "title": "[합성강좌] FL Harmor로 소스 가공하기",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=OxjxFJANltk&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=17&pp=iAQB",
+    "author": "Crypto",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/DK7uAPs1NBc/hqdefault.jpg",
+    "title": "[음매드 강좌] FL에서 루프 없이 만들기!",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=DK7uAPs1NBc&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=16&t=13s&pp=iAQB",
+    "author": "아야",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/83s_Zk0YGyY/hqdefault.jpg",
+    "title": "음원 청음 쉽게 하는 법 없나요? [3분 FL 합성 강좌]",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=83s_Zk0YGyY&list=PLU1k39MiRtgJdPtc-ozUPUWtYHWa9pVNj&index=15&t=12s&pp=iAQB",
+    "author": "E . Entarino",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "blog",
+    "thumbnail": "https://cdn.image.st-hatena.com/image/scale/ef064faa2bafd325e26c2e74f34ade4f79cb3d12/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fimmortalt%2F20200608%2F20200608180827.png",
+    "title": "【共有】色から見る音MAD - メモタルト",
+    "description": "",
+    "url": "https://immortalt.hatenablog.com/entry/2020/06/08/210632",
+    "author": "芋タルト",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": []
+  },
+  {
     "type": "blog",
     "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/EastMt72/20191108/20191108222722.png",
     "title": "Firers!!!の編集後記 #sm35451338",
