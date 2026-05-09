@@ -1,6 +1,21 @@
 [
   {
     "type": "blog",
+    "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/immortalt/20210813/20210813194209.gif",
+    "title": "개인적인 음매드 제작법",
+    "description": "",
+    "url": "https://immortalt.hatenablog.com/entry/ar1845344",
+    "author": "芋タルト",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER",
+      "VocalShifter",
+      "AviUtl"
+    ]
+  },
+  {
+    "type": "blog",
     "thumbnail": "http://otomad.jp/wp-content/uploads/sh-reverb.png",
     "title": "음매드 만드는 방법 - VST 도입",
     "description": "",
