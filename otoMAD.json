@@ -1,6 +1,35 @@
 [
   {
     "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/m8gQd_5nK4E/hqdefault.jpg",
+    "title": "【音MADメイキング】夜に駆けルドの音声解説【Reaper,UTAU】",
+    "description": "",
+    "url": "https://youtu.be/m8gQd_5nK4E",
+    "author": "aun6june",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "REAPER",
+      "조교"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/oHbz0Ps2prA/hqdefault.jpg",
+    "title": "보컬(조교) 제작/믹싱은 어떻게하나요? [3분 FL 합성 강좌]",
+    "description": "",
+    "url": "https://youtu.be/oHbz0Ps2prA?list=PLWEI0XRzIavqFSNmj-pHEP-5OayQ_46ge",
+    "author": "E . Entarino",
+    "date": "2026.05.09",
+    "duration": null,
+    "tags": [
+      "조교",
+      "FL Studio"
+    ]
+  },
+  {
+    "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/2qfQYmkkCDk/hqdefault.jpg",
     "title": "음원 합성 하는 법 : REAPER ｜音MAD 강좌",
     "description": "",
     "url": "https://youtu.be/2qfQYmkkCDk?list=PLWEI0XRzIavqFSNmj-pHEP-5OayQ_46ge",
@@ -13,6 +42,7 @@
   },
   {
     "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/osGIrioH8dE/hqdefault.jpg",
     "title": "음정보정 대사 음조절 용 무료 프로그램 Vocalshfter ｜音MAD 강좌",
     "description": "",
     "url": "https://youtu.be/osGIrioH8dE?list=PLWEI0XRzIavqFSNmj-pHEP-5OayQ_46ge",
