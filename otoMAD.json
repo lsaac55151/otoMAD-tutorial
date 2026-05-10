@@ -1,6 +1,19 @@
 [
   {
     "type": "youtube",
+    "thumbnail": "https://img.youtube.com/vi/XWvDjgKU89A/hqdefault.jpg",
+    "title": "[본심강좌] 1. 기초",
+    "description": "",
+    "url": "https://youtu.be/XWvDjgKU89A",
+    "author": "본인심영",
+    "date": "2026.05.11",
+    "duration": null,
+    "tags": [
+      "REAPER"
+    ]
+  },
+  {
+    "type": "youtube",
     "thumbnail": "https://img.youtube.com/vi/My7SAt1M130/hqdefault.jpg",
     "title": "'빵'으로 노래 만드는 법 알려드림",
     "description": "",
